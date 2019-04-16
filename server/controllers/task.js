@@ -64,8 +64,7 @@ module.exports = {
     }
 };
 
-// httplocalhose:6969/addTask 
-//req.body.name
+
 
 
 /// output endpoint > {response: 'Success', data: {title: , description"}}
